@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xbatcher",
+  "versions": [
+    {
+      "commit": "5513cc1872d5147012741b1c27dfc7a0b75ddae8",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:23:49.726338+00:00"
+    }
+  ]
+}
